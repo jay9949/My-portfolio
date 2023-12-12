@@ -8,6 +8,10 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
+
+##Live Preview
+(https://jay9949portfolio.netlify.app/)
+
 ## Here Some Images 
 Desktopview:
 ![desk1](https://github.com/jay9949/My-portfolio/assets/115682697/57a91c16-8554-41a5-a0fa-864cff1986f8)
