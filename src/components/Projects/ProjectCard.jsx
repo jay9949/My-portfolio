@@ -3,6 +3,7 @@ import rental from "../../../assets/projects/Site 2.png";
 import country from "../../../assets/projects/country.png";
 import tracker from "../../../assets/projects/IPTracker.png";
 import game from "../../../assets/projects/dicegame.png";
+import food from "../../../assets/projects/food.png";
 import styles from "./ProjectCard.module.css";
 
 export const ProjectCard = () => {
@@ -24,25 +25,6 @@ export const ProjectCard = () => {
           </a>
           <a
             href="https://github.com/jay9949/car-rental-app"
-            className={styles.link}
-          >
-            Source
-          </a>
-        </div>
-      </div>
-      <div className={styles.container}>
-        <img src={country} alt="country" className={styles.image} />
-        <h3 className={styles.title}>Country App</h3>
-        <p className={styles.description}>
-          In this project I m using restcountries API & Filter country by
-          Search. Checkout this project
-        </p>
-        <div className={styles.links}>
-          <a href="https://jay9949country.netlify.app/" className={styles.link}>
-            Demo
-          </a>
-          <a
-            href="https://github.com/jay9949/countryapp"
             className={styles.link}
           >
             Source
@@ -86,6 +68,26 @@ export const ProjectCard = () => {
             Demo
           </a>
           <a href="https://github.com/jay9949/dicegame" className={styles.link}>
+            Source
+          </a>
+        </div>
+      </div>
+      <div className={styles.container}>
+        <img src={food} alt="country" className={styles.image} />
+        <h3 className={styles.title}>The Food Order App</h3>
+        <p className={styles.description}>
+          In this project Client use to order food & This project i m use
+          firebase for backend data & also customer need to fill some required
+          details.
+        </p>
+        <div className={styles.links}>
+          <a href="https://jay9949food.netlify.app/" className={styles.link}>
+            Demo
+          </a>
+          <a
+            href="https://github.com/jay9949/The-Food-Order-App"
+            className={styles.link}
+          >
             Source
           </a>
         </div>
