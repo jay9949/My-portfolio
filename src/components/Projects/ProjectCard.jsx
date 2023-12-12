@@ -19,12 +19,14 @@ export const ProjectCard = () => {
         <div className={styles.links}>
           <a
             href="https://jay9949carrental.netlify.app/"
+            target="blank"
             className={styles.link}
           >
             Demo
           </a>
           <a
             href="https://github.com/jay9949/car-rental-app"
+            target="blank"
             className={styles.link}
           >
             Source
@@ -41,12 +43,14 @@ export const ProjectCard = () => {
         <div className={styles.links}>
           <a
             href="https://jay9949iptracker.netlify.app/"
+            target="blank"
             className={styles.link}
           >
             Demo
           </a>
           <a
             href="https://github.com/jay9949/ip-tracker-app"
+            target="blank"
             className={styles.link}
           >
             Source
@@ -63,11 +67,16 @@ export const ProjectCard = () => {
         <div className={styles.links}>
           <a
             href="https://jay9949dicegame.netlify.app/"
+            target="blank"
             className={styles.link}
           >
             Demo
           </a>
-          <a href="https://github.com/jay9949/dicegame" className={styles.link}>
+          <a
+            href="https://github.com/jay9949/dicegame"
+            target="blank"
+            className={styles.link}
+          >
             Source
           </a>
         </div>
@@ -81,11 +90,16 @@ export const ProjectCard = () => {
           details.
         </p>
         <div className={styles.links}>
-          <a href="https://jay9949food.netlify.app/" className={styles.link}>
+          <a
+            href="https://jay9949food.netlify.app/"
+            target="blank"
+            className={styles.link}
+          >
             Demo
           </a>
           <a
             href="https://github.com/jay9949/The-Food-Order-App"
+            target="blank"
             className={styles.link}
           >
             Source

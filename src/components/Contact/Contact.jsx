@@ -14,17 +14,21 @@ export const Contact = () => {
       <ul className={styles.links}>
         <li className={styles.link}>
           <MdMail className={styles.icon} />
-          <a href="mailto:jay37192@gmail.com">jay37192@gmail.com</a>
+          <a href="mailto:jay37192@gmail.com" target="blank">
+            jay37192@gmail.com
+          </a>
         </li>
         <li className={styles.link}>
           <IoLogoLinkedin className={styles.icon} />
-          <a href="https://www.linkedin.com/Jaysuthar">
+          <a href="https://www.linkedin.com/Jaysuthar" target="blank">
             linkedin.com/Jaysuthar
           </a>
         </li>
         <li className={styles.link}>
           <FaGithub className={styles.icon} />
-          <a href="https://www.github.com/jay9949">github.com/jay9949</a>
+          <a href="https://www.github.com/jay9949" target="blank">
+            github.com/jay9949
+          </a>
         </li>
       </ul>
     </footer>
