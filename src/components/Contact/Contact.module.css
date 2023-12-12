@@ -17,6 +17,10 @@
   font-weight: 700;
   letter-spacing: 4px;
 }
+.icon {
+  font-size: 38px;
+  margin-top: 5px;
+}
 
 .text p {
   font-size: 40px;

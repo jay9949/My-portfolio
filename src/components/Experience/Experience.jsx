@@ -1,5 +1,6 @@
 import React from "react";
 import exp from "../../../assets/skills/node.png";
+import rdx from "../../../assets/skills/redux.png";
 import styles from "./Experience.module.css";
 import skills from "../../data/skills.json";
 import { getImageUrl } from "../../utils";
@@ -25,6 +26,12 @@ export const Experience = () => {
               <img src={exp} alt="" />
             </div>
             <p>Javascript</p>
+          </div>
+          <div className={styles.skill}>
+            <div className={styles.skillImageContainer}>
+              <img src={rdx} alt="" />
+            </div>
+            <p>Redux</p>
           </div>
         </div>
       </div>
