@@ -1,6 +1,5 @@
 import React from "react";
 import rental from "../../../assets/projects/Site 2.png";
-import country from "../../../assets/projects/country.png";
 import tracker from "../../../assets/projects/IPTracker.png";
 import game from "../../../assets/projects/dicegame.png";
 import food from "../../../assets/projects/food.png";
