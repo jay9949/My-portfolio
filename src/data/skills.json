@@ -22,5 +22,13 @@
   {
     "title": "Sanity",
     "imageSrc": "skills/sanity.png"
+  },
+  {
+    "title": "Next.Js",
+    "imageSrc": "skills/nextjs.png"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "skills/ts.png"
   }
 ]
