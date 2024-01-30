@@ -25,7 +25,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experienc fetching data from API & Firebase Server, And
+                I have experience fetching data from API & Firebase Server, And
                 also I can Fetching Some Backend data like Sanity.
               </p>
             </div>
